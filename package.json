@@ -1,0 +1,15 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "API REST timestamp, proyecto de certificacion para freecodecamp",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson David Argumedo Ramos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
